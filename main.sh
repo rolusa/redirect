@@ -6,7 +6,7 @@
 # 版本: 3.0 (完美版)
 # 功能: 无人值守自动部署完整系统
 # 特性: 自动化、文件清理、服务重启
-# GitHub: https://github.com/rolusa/redirect
+# GitHub: https://github.com
 # ============================================
 
 set -e  # 遇到错误立即退出
