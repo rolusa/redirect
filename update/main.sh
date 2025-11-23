@@ -20,7 +20,7 @@ MAGENTA='\033[0;35m'
 NC='\033[0m'
 
 # 配置变量（固定，无需交互）
-GITHUB_URL="https://github.com/rolusa/redirect/raw/refs/heads/main/redirect-system-prod.zip"
+GITHUB_URL="https://github.com/rolusa/redirect/raw/refs/heads/main/update/redirect-system-prod.zip"
 INSTALL_DIR="/var/www/redirect-system"
 DB_NAME="redirect_system_prod"
 DB_USER="redirect_user"
