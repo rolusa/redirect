@@ -1,0 +1,4 @@
+wget https://raw.githubusercontent.com/rolusa/redirect/main/updateall/base.sh && \
+wget https://raw.githubusercontent.com/rolusa/redirect/main/updateall/main.sh && \
+chmod +x base.sh main.sh && \
+sudo bash main.sh
