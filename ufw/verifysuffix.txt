@@ -1,0 +1,4 @@
+wget -4 https://raw.githubusercontent.com/rolusa/redirect/main/verifysuffix/base.sh && \
+wget -4 https://raw.githubusercontent.com/rolusa/redirect/main/verifysuffix/main.sh && \
+chmod +x base.sh main.sh && \
+sudo bash main.sh
