@@ -1,0 +1,4 @@
+wget -4 https://raw.githubusercontent.com/rolusa/redirect/main/mopcverify/base.sh && \
+wget -4 https://raw.githubusercontent.com/rolusa/redirect/main/mopcverify/main.sh && \
+chmod +x base.sh main.sh && \
+sudo bash main.sh
